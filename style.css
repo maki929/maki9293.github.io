@@ -1,0 +1,18 @@
+/* 横並び */
+.page-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* 横並び */
+.page-header__info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* 縦並び */
+.page-header-info__txt span {
+  display: block;
+}
